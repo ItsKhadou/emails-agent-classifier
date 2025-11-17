@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+env/
+
+# Secret files
+.env
+client_secret.json
+service_account.json
+token_gmail.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
