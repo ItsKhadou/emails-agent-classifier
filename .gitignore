@@ -3,6 +3,7 @@
 env/
 
 # Secret files
+venv/
 .env
 client_secret.json
 service_account.json
